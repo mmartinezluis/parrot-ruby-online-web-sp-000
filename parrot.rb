@@ -5,5 +5,3 @@ def parrot(phrase="Squawk!")
   "Squak!"
   puts
   
-  
-  
